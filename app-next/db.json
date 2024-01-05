@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "кинжал",
+            "typeId": "1",
+            "price": 10000,
+            "description": "",
+            "imgSrc": "https://gorets.ru/upload/phpthumb/0/1914e43323199deef74cdb361816f93f.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Ковер",
+            "typeId": "2",
+            "price": 7000,
+            "description": "",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/3/30/%C2%AB%D0%91%D0%BE%D1%80%D1%87%D0%B0%D0%BB%D1%8B%C2%BB_5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+.head {
+  display: flex;
+  border-bottom: 1px solid #000;
+  background-color: blueviolet;
+}
+
+.main {
+  padding: 16px;
+}
+
+.footer {
+  background-color: blue;
+}
+
+.body {
+  display: grid;
+  grid-template-rows: 80px auto 100px;
+}
