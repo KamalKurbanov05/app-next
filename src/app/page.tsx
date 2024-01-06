@@ -35,6 +35,7 @@ export default async function Home() {
               alt={product.name}
               width={200}
               height={200}
+              priority
             />
           </li>
         ))}
